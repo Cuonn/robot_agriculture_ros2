@@ -1,0 +1,20 @@
+build/
+install/
+log/
+*.pyc
+__pycache__/
+*.log
+
+# Python virtual environments
+venv/
+openvino_venv/
+yolov5_venv/
+
+# VSCode or IDE
+.vscode/
+.idea/
+
+# OpenVINO models (tuỳ bạn)
+*.bin
+*.mapping
+*.xml
