@@ -10,3 +10,4 @@ __pycache__/
 .idea/
 
 yolov5/
+src/yolov5/
